@@ -1,0 +1,22 @@
+{
+    "training_accuracy": 0.9883481004976332,
+    "test_accuracy": 0.9830097087378641,
+    "coefficient_matrix_shape": [
+        6,
+        561
+    ],
+    "first_5_feature_names": [
+        "tBodyAcc-mean()-X",
+        "tBodyAcc-mean()-Y",
+        "tBodyAcc-mean()-Z",
+        "tBodyAcc-std()-X",
+        "tBodyAcc-std()-Y"
+    ],
+    "top_5_features": {
+        "tBodyGyroJerk-entropy()-X": 0.9875098752556353,
+        "tGravityAcc-mean()-Y": 0.8203078149228208,
+        "tGravityAcc-min()-Y": 0.8004811547252603,
+        "tGravityAcc-max()-Y": 0.780517108641002,
+        "tGravityAcc-energy()-X": 0.7627896762611189
+    }
+}
